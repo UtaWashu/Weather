@@ -39,6 +39,6 @@
 
 ### Пример вывода:
 
-![](Screenshot from 2024-02-06 15-36-36.png)
-![](Screenshot from 2024-02-06 15-37-09.png)
+![alt text](gh.png)
+![Alt text](hg.png)
 
